@@ -25,11 +25,11 @@ I requested and was granted a reduction in my weekly goals, allotting me more ti
 With the reduction in my daily goals, I was able to dedicate more time to the special project. This allowed me to finish it on time and with complete accuracy. My supervisor appreciated my attitude and drive, and I was given several more projects after that, along with an eventual promotion and pay raise.
 
 # What extra value does Devops bring to an agile team?
-The first way	- System Thinking	emphasises the performance of the entire system, as opposed to the performance of a specific silo of work or department, this can be as large as a division or as small as an individual contributor.
+The first way	- System - Thinking	emphasises the performance of the entire system, as opposed to the performance of a specific silo of work or department, this can be as large as a division or as small as an individual contributor.
 
-The second way - Amplify Feedback Loops	creating the right to left feedback loops. The goal of almost any process improvement initiative is to shorten and amplify feedback loops so necessary corrections can be continually made.
+The second way - Amplify - Feedback Loops	creating the right to left feedback loops. The goal of almost any process improvement initiative is to shorten and amplify feedback loops so necessary corrections can be continually made.
 
-The third way	Culture - of Continual Experimentation and Learning	creating a culture that fosters two things: continual experimentation, taking risks and learning from failure; and understanding that repetition and practice is the prerequisite to mastery.
+The third way	- Culture - of Continual Experimentation and Learning	creating a culture that fosters two things: continual experimentation, taking risks and learning from failure; and understanding that repetition and practice is the prerequisite to mastery.
 
 # Why do i need to pay you? What value do you bring?
 Teams that adopt DevOps culture, practices and tolls become high-performing, building better products faster for greatest customer satisfaction. this improved collaboration and productivity is also integral to achieve business goals like these:
@@ -38,4 +38,3 @@ Teams that adopt DevOps culture, practices and tolls become high-performing, bui
 - Adaption to the market and competition
 - Maintaining system stability and reliability
 - Improving the mean time to recovery
- 
